@@ -1,0 +1,7 @@
+# PolyU-COMP-Work
+
+Subjects:
+- COMP 1002
+- COMP 1011
+- COMP 1433
+- COMP 1411
