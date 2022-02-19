@@ -22,4 +22,4 @@ Subjects:
 
 
 
-Copyright belong to Guanlin Jiang & Parts of belong to HkPolyU.
+Copyright belong to Guanlin Jiang & Parts of belong to HK PolyU.
