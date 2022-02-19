@@ -12,6 +12,11 @@ Subjects:
   - Project 2
   - Project 3
 
+- AMA 1104 (Probility)
+  - Assignment 1
+  - Quiz 1
+  - Formula
+
 - COMP 1011 (Use C++)
   - Assignment 1
 
