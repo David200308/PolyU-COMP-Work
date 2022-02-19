@@ -25,6 +25,8 @@ Subjects:
 - COMP 1411 (Use C Language)
   - Assignment 1
 
+- AMA 10071 (Calculus & Linear Algebra)
+  - Assignment 1
 
 
 Copyright belong to Guanlin Jiang & Parts of belong to HK PolyU.
