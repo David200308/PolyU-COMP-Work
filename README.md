@@ -21,6 +21,7 @@ Subjects:
   - Assignment 1
 
 - COMP 1433 (Use R Language)
+  - Quiz 1
 
 - COMP 1411 (Use C Language)
   - Assignment 1
