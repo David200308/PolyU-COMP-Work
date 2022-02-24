@@ -24,6 +24,7 @@ Subjects:
   - Quiz 1
 
 - COMP 1411 (Use C Language)
+  - Notes
   - Assignment 1
 
 - AMA 10071 (Calculus & Linear Algebra)
