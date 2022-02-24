@@ -5,7 +5,7 @@ Subjects:
   - Assignment 1
   - Assignment 2
   - Assignment 3
-  - Group Project
+  - Group Project (Code + Report)
 
 - COMP 1901 (Use MIT APP Inventor & Orange 3 (Python 3) & Business Model)
   - Project 1
