@@ -33,4 +33,6 @@ Subjects:
   - Assignment 1
 
 
-Copyright belong to Guanlin Jiang & Parts of belong to HK PolyU.
+Copyright belong to Guanlin Jiang;
+Some Parts Copyright belong to HK PolyU;
+Group Works Copyright belong to All the Members in that Group.
