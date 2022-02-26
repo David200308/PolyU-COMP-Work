@@ -34,5 +34,7 @@ Subjects:
 
 
 Copyright belong to Guanlin Jiang;
+
 Some Parts Copyright belong to HK PolyU;
+
 Group Works Copyright belong to All the Members in that Group.
