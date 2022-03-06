@@ -1,0 +1,10 @@
+Q1: Write c++ code that generates 15 integers randomly between 2022 and 6543. store the integers in an array
+
+
+Q10: The problem in this code?
+
+ const int WORDCOUNT = 100;
+    char s[WORDCOUNT];
+    for (int i = 0; i <= 100; i++) {
+        cout << s[i] << " ";
+    }
