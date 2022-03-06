@@ -21,6 +21,7 @@ Subjects:
 
 - COMP 1011 (Use C++)
   - Assignment 1
+  - Mid-term Test
 
 - COMP 1433 (Use R Language)
   - Quiz 1
