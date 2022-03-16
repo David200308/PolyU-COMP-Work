@@ -25,6 +25,7 @@ Subjects:
 
 - COMP 1433 (Use R Language)
   - Quiz 1
+  - In-class Test
 
 - COMP 1411 (Use C Language)
   - Notes
@@ -32,6 +33,7 @@ Subjects:
 
 - AMA 10071 (Calculus & Linear Algebra)
   - Assignment 1
+  - Assignment 2
 
 
 Copyright belong to Guanlin Jiang;
