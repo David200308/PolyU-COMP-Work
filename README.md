@@ -27,9 +27,10 @@ Subjects:
   - Quiz 1
   - In-class Test
 
-- COMP 1411 (Use C Language)
+- COMP 1411 (Use C Language & Machine Language)
   - Notes
   - Assignment 1
+  - Assignment 2
 
 - AMA 10071 (Calculus & Linear Algebra)
   - Assignment 1
