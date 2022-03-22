@@ -27,7 +27,7 @@ Subjects:
   - Quiz 1
   - In-class Test
 
-- COMP 1411 (Use C Language & Machine Language)
+- COMP 1411 (Use C Language & Machine Language & assembly language)
   - Notes
   - Assignment 1
   - Assignment 2
