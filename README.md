@@ -32,6 +32,8 @@ Subjects:
   - Notes
   - Assignment 1
   - Assignment 2
+  - Quiz 1
+  - Quiz 2
 
 - AMA 10071 (Calculus & Linear Algebra)
   - Assignment 1
