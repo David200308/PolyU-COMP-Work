@@ -26,6 +26,7 @@ Subjects:
 - COMP 1433 (Use R Language)
   - Quiz 1
   - In-class Test
+  - Quiz 2
 
 - COMP 1411 (Use C Language & Machine Language & Assembly Language)
   - Notes
@@ -35,6 +36,7 @@ Subjects:
 - AMA 10071 (Calculus & Linear Algebra)
   - Assignment 1
   - Assignment 2
+  - Mid-term Exam
 
 
 ##### Copyright belong to Guanlin Jiang;
