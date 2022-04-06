@@ -27,6 +27,7 @@ Subjects:
   - Quiz 1
   - In-class Test
   - Quiz 2
+  - Assignment
 
 - COMP 1411 (Use C Language & Machine Language & Assembly Language)
   - Notes
