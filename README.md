@@ -7,7 +7,7 @@ Subjects:
   - Assignment 1
   - Assignment 2
   - Assignment 3
-  - Group Project (Code + Report)
+  - Group Project (Code + Report) (Workshops Enroll System)
 
 - COMP 1901 (Use MIT APP Inventor & Orange 3 (Python 3) & Business Model)
   - Project 1
@@ -22,6 +22,8 @@ Subjects:
 - COMP 1011 (Use C++)
   - Assignment 1
   - Mid-term Test
+  - Assignment 2
+  - Individual Project (Blockchain System)
 
 - COMP 1433 (Use R Language)
   - Quiz 1
@@ -33,6 +35,7 @@ Subjects:
   - Notes
   - Assignment 1
   - Assignment 2
+  - Assignment 3
   - Quiz 1
   - Quiz 2
 
