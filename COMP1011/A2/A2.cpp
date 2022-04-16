@@ -56,8 +56,8 @@ int count_row_in_ignorefile() {
 }
 
 
-// Core Part
-void core(int choose) {
+// Core Part and task 2 Part
+void core_and_task_2(int choose) {
     if (choose == 1) {
         int row_in_text;
         int format_length;
@@ -298,28 +298,10 @@ void core(int choose) {
     }
 }
 
-
+// Menu and Display
 int main() {
-
-    core(1);
-    cout << endl;
-    cout << "------------------------" << endl;
-    cout << "COMP 1011 Assignment 2" << endl << "------------------------" << endl;
-    cout << "Name: JIANG Guanlin" << endl;
-    cout << "SID: 21093962d" << endl;
-    int num = 21093962 % 3;
-    cout << "Addition: Task " << num << endl;
-    cout << "------------------------" << endl << endl;
+    core_and_task_2(1);
     int choose_menu;
-    cout << "Select one:" << endl << "(1) Core Part; (2) Task 2"<< endl;
-    cin >> choose_menu;
-
-    if (choose_menu == 1) {
-        core(choose_menu);
-    } else if (choose_menu == 2) {
-        core(choose_menu);
-    }
-    
     int choose;
     while (true) { 
         cout << endl;
@@ -336,9 +318,9 @@ int main() {
             cout << "Select one:" << endl << "(1) Core Part; (2) Task 2; (3) Quit"<< endl;
             cin >> choose_menu;
             if (choose_menu == 1) {
-                core(choose_menu);
+                core_and_task_2(choose_menu);
             } else if (choose_menu == 2) {
-                core(choose_menu);
+                core_and_task_2(choose_menu);
             } else if (choose_menu == 3) {
                 break;
             }
