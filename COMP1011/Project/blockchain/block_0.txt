@@ -1,0 +1,6 @@
+Block Number: 0
+hash: 28dadecff7746e3c78eb740c3605a12f18f81978
+data: Hello, welcome to Blockchain
+Timestamp (UTC): Thu Apr 21 05:30:09 2022
+
+prev hash: NULL
