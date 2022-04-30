@@ -39,6 +39,7 @@ Subjects:
   - Quiz 1
   - Quiz 2
   - Quiz 3
+  - Final Exam
 
 - AMA 10071 (Calculus & Linear Algebra)
   - Assignment 1
