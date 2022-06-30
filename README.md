@@ -54,7 +54,7 @@ Leadership Course:
 - APSS 1L01
 
 Service Learning:
-(Waiting...)
+- Waiting...
 
 Other:
 - Papers & Reports
