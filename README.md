@@ -2,7 +2,7 @@
 
 Works + Papers & Reports
 
-Subjects:
+COMP & AMA Courses:
 - COMP 1002 (Use Python 3)
   - Assignment 1
   - Assignment 2
@@ -45,6 +45,19 @@ Subjects:
   - Assignment 1
   - Assignment 2
   - Mid-term Exam
+
+CAR Courses:
+- CAR A - APSS 1A08
+- CAR C - CBS 1C12P (CRCW / CSR)
+
+Leadership Course:
+- APSS 1L01
+
+Service Learning:
+(Waiting...)
+
+Other:
+- Papers & Reports
 
 
 ##### Copyright belong to Guanlin Jiang;
