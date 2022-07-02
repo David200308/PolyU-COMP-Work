@@ -1,6 +1,6 @@
-# PolyU-COMP-Work
+# **PolyU COMP Work**
 
-Works + Papers & Reports
+## Subjects:
 
 COMP & AMA Courses:
 - COMP 1002 (Use Python 3)
@@ -50,14 +50,21 @@ CAR Courses:
 - CAR A - APSS 1A08
 - CAR C - CBS 1C12P (CRCW / CSR)
 
+LCR Courses:
+
+- ELC 1011
+- ELC 1013
+- CLC 1104P
+
 Leadership Course:
 - APSS 1L01
 
 Service Learning:
 - Waiting...
 
-Other:
-- Papers & Reports
+
+
+
 
 
 ##### Copyright belong to Guanlin Jiang;
