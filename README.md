@@ -45,10 +45,11 @@ COMP & AMA Courses:
   - Assignment 1
   - Assignment 2
   - Mid-term Exam
+  - Final Exam
 
 CAR Courses:
 - CAR A - APSS 1A08
-- CAR C - CBS 1C12P (CRCW / CSR)
+- CAR C - CBS 1C12P (CRCW & CSR)
 
 LCR Courses:
 
