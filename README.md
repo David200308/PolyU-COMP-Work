@@ -46,6 +46,9 @@ COMP & AMA Courses:
   - Assignment 2
   - Mid-term Exam
   - Final Exam
+- COMP 2021 (OOP)
+  - Assignment 1
+  
 
 CAR Courses:
 - CAR A - APSS 1A08
