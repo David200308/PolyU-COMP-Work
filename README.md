@@ -48,7 +48,8 @@ COMP & AMA Courses:
   - Assignment 1
 - COMP 2411 (Database System - Oracle SQL)
   - Assignment 1
-
+  - Assignment 2
+  
 - COMP 2012 (Discrete Mathematics)
   - Quiz 1
 
