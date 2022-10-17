@@ -42,6 +42,7 @@ COMP & AMA Courses:
   - Final Exam
 - COMP 2021 (Object-oriented Programming in Java)
   - Assignment 1
+  - Assignment 2
   
 - COMP 2011 (Data Structure)
   - Quiz 1
