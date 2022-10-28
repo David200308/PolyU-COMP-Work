@@ -43,6 +43,7 @@ COMP & AMA Courses:
 - COMP 2021 (Object-oriented Programming in Java)
   - Assignment 1
   - Assignment 2
+  - Assignment 3
   
 - COMP 2011 (Data Structure)
   - Quiz 1
@@ -53,9 +54,12 @@ COMP & AMA Courses:
   
 - COMP 2012 (Discrete Mathematics)
   - Quiz 1
-
+  - Assignment 1
+  - Quiz 2
+  
 - AMA 2111 (Mathematics I)
   - Assignment 1
+  - Mid-term Test
 
 
 CAR Courses:
