@@ -44,10 +44,13 @@ COMP & AMA Courses:
   - Assignment 1
   - Assignment 2
   - Assignment 3
+  - Assignment 4
   
 - COMP 2011 (Data Structure)
   - Quiz 1
   - Assignment 1
+  - Quiz 2
+  - Assignment 2
 - COMP 2411 (Database System - Oracle SQL)
   - Assignment 1
   - Assignment 2
