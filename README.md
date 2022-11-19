@@ -45,6 +45,7 @@ COMP & AMA Courses:
   - Assignment 2
   - Assignment 3
   - Assignment 4
+  - Group Project
   
 - COMP 2011 (Data Structure)
   - Quiz 1
@@ -54,6 +55,7 @@ COMP & AMA Courses:
 - COMP 2411 (Database System - Oracle SQL)
   - Assignment 1
   - Assignment 2
+  - Group Project
   
 - COMP 2012 (Discrete Mathematics)
   - Quiz 1
