@@ -1,0 +1,96 @@
+vardef vardef1 int x 100
+binexpr exp1 x * 20
+unexpr exp2 ~ exp1
+assign assign1 x exp2
+print print1 exp2
+skip skip1
+block block1 assign1 skip1
+if if1 exp5 block1 print1
+while while1 true block1
+program program1 while1
+execute program1
+list program1
+store program1 /Users/davidjiang/Desktop/prog1.simple
+load /Users/davidjiang/Desktop/prog1.simple program1
+quit
+
+
+vardef vardef1 int x 100
+binexpr exp1 x * 20
+unexpr exp2 ~ exp1
+assign assign1 x exp2
+print print1 exp2
+block block1 assign1 print1
+program program1 block1
+store program1 /Users/davidjiang/Desktop/prog1.simple
+load /Users/davidjiang/Desktop/prog1.simple program1
+list program1
+
+vardef vardef1 int x 100
+binexpr exp1 x * 20
+unexpr exp2 ~ exp1
+assign assign1 x exp2
+print print1 exp2
+block block1 assign1 print1
+program program1 block1
+list program1
+togglebreakpoint program1 assign1
+debug program1
+inspect program1 x
+
+vardef vardef1 int x 100
+binexpr exp1 x * 20
+unexpr exp2 ~ exp1
+assign assign1 x exp2
+print print1 exp2
+block block1 assign1
+if if1 exp5 block1 print1
+while while1 true block1
+program program1 while1
+store program1 /Users/davidjiang/Desktop/prog1.simple
+load /Users/davidjiang/Desktop/prog1.simple program1
+list program1
+togglebreakpoint program1 while1
+debug program1
+
+
+
+vardef vardef1 int x 0
+binexpr exp1 x % 2
+binexpr exp2 exp1 == 0
+print print1 x
+skip skip1
+if if1 exp2 print1 skip1
+binexpr exp3 x + 1
+assign assign1 x exp3
+block block1 if1 assign1
+binexpr exp4 x <= 10
+while while1 exp4 block1
+block block2 vardef1 while1
+program printeven block2
+execute printeven
+program printeven block2
+togglebreakpoint printeven if1
+debug printeven
+inspect printeven x
+debug printeven
+inspect printeven x
+togglebreakpoint printeven if1
+debug printeven
+
+
+
+vardef vardef1 int x 100
+binexpr exp1 x * 20
+print print1 exp1
+program program1 print1
+execute program1
+
+
+vardef vardef1 int x 100
+binexpr exp1 x * 20
+assign assign1 x exp1
+print print1 x
+block block1 assign1 print1
+program program1 block1
+execute program1
