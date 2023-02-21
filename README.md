@@ -26,7 +26,7 @@ COMP & AMA Courses:
   - In-class Test
   - Quiz 2
   - Assignment
-- COMP 1411 (Use C Language & Machine Language & Assembly Language)
+- COMP 1411 (Use C Language & Machine Language & x86 Assembly Language)
   - Notes
   - Assignment 1
   - Assignment 2
@@ -46,7 +46,6 @@ COMP & AMA Courses:
   - Assignment 3
   - Assignment 4
   - Group Project
-  
 - COMP 2011 (Data Structure)
   - Quiz 1
   - Assignment 1
@@ -56,15 +55,25 @@ COMP & AMA Courses:
   - Assignment 1
   - Assignment 2
   - Group Project
-  
 - COMP 2012 (Discrete Mathematics)
   - Quiz 1
   - Assignment 1
   - Quiz 2
-  
 - AMA 2111 (Mathematics I)
   - Assignment 1
   - Mid-term Test
+- COMP 2432 (Operating System - Use C Language & ShellScript on Linux / Unix)
+  - Lab Exercise
+
+- COMP 2322 (Computer Network)
+  - Lab Report
+  - Homework 1
+  - Homework 2
+  - Homework 3
+
+- COMP 2421 (Computer Organaztion - Use C Language & Mips Assembly Language)
+  - Homework 1
+
 
 
 CAR Courses:
