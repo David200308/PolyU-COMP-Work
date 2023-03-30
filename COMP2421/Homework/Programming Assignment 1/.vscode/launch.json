@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/davidjiang/Library/CloudStorage/OneDrive-Personal/HKPolyU/2 Broadening Year/Sem 2/COMP2421 - Computer Organization/Homework/PA1",
+      "program": "/Users/davidjiang/Library/CloudStorage/OneDrive-Personal/HKPolyU/2 Broadening Year/Sem 2/COMP2421 - Computer Organization/Homework/PA1/build/Debug/outDebug"
+    }
+  ]
+}
