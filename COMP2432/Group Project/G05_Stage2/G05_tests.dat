@@ -1,0 +1,20 @@
+privateTime a 20230501 1800 2.0
+privateTime b 20230501 2000 1.0
+groupStudy a 20230502 1800 2.0 b c
+privateTime c 20230502 2000 1.0
+gathering b 20230503 1900 2.0 a c
+projectMeeting a 20230503 2000 1.0 b c
+privateTime a 20230504 1800 2.0
+groupStudy b 20230504 1900 3.0 a c
+privateTime c 20230504 2200 1.0
+privateTime a 20230504 2100 2.0
+projectMeeting b 20230505 1800 3.0 a c
+gathering a 20230505 2100 2.0 b c
+privateTime a 20230506 2000 3.0
+privateTime b 20230506 1900 2.0
+groupStudy c 20230506 2100 2.0 b
+projectMeeting a 20230507 1800 5.0 b c
+projectMeeting b 20230508 1800 3.0 a c
+privateTime a 20230508 2100 2.0
+privateTime b 20230508 2100 1.0
+privateTime c 20230508 2000 1.0

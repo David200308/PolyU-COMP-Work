@@ -1,0 +1,266 @@
+
+*** Rejected List(FCFS)***
+1. gathering billy 20230501 1900 1 cathy danny emily
+2. projectMeeting cathy 20230501 2100 1 amada danny emily
+3. privateTime billy 20230501 1800 4
+4. projectMeeting amada 20230501 2200 1 billy cathy danny emily
+5. groupStudy amada 20230501 1900 4 billy cathy danny emily
+6. gathering amada 20230501 1800 5 danny emily
+7. projectMeeting amada 20230501 2200 1 danny emily
+8. privateTime billy 20230501 2200 1
+9. privateTime amada 20230501 1800 2
+10. privateTime emily 20230501 2000 2
+Altogether there are 10 appointments rejected.
+
+*** Performance ***
+Total Number of Requests Received: 315.0(100%)
+      Number of Requests Accepted: 305.0(96.8%)
+      Number of Requests Rejected: 10.0(3.2%)
+
+Number of Requests Accepted by Individual:
+amada - 28
+billy - 24
+cathy - 28
+danny - 27
+emily - 33
+
+Utilization of Time Slot:
+amada      - 62.6%
+billy      - 58.7%
+cathy      - 63.9%
+danny      - 61.9%
+emily      - 70.3%
+
+*** Rejected List(PRIORITY)***
+1. groupStudy cathy 20230505 1800 4.0 danny emily
+2. gathering danny 20230511 1800 5.0 amada billy cathy emily
+3. groupStudy emily 20230516 2000 3.0 amada billy
+4. gathering billy 20230520 1800 5.0 amada cathy danny emily
+5. projectMeeting cathy 20230512 1800 4.0 billy danny
+6. groupStudy cathy 20230523 2000 2.0 amada billy danny emily
+7. groupStudy emily 20230524 2000 3.0 amada billy
+8. projectMeeting cathy 20230508 2100 2.0 amada billy
+9. privateTime billy 20230503 2200 1.0
+10. gathering danny 20230527 1900 3.0 billy emily
+11. projectMeeting billy 20230505 2000 1.0 amada danny emily
+12. gathering amada 20230503 1800 5 danny emily
+13. projectMeeting danny 20230518 2100 1 amada billy cathy emily
+14. projectMeeting amada 20230527 2200 1 billy cathy danny emily
+15. projectMeeting emily 20230515 2200 1 cathy danny
+16. groupStudy cathy 20230522 1900 4 emily
+17. projectMeeting amada 20230509 2000 2 emily
+18. gathering danny 20230518 2100 1 amada billy cathy emily
+19. projectMeeting danny 20230510 2100 2 billy cathy emily
+20. groupStudy amada 20230525 1900 2 cathy danny emily
+21. groupStudy billy 20230530 2200 1 cathy danny emily
+22. projectMeeting emily 20230513 2200 1 cathy danny
+23. projectMeeting emily 20230523 1900 4 amada billy
+24. groupStudy cathy 20230522 1800 5 amada danny emily
+25. gathering billy 20230508 1800 4 cathy danny emily
+26. gathering danny 20230523 2100 2 amada billy cathy emily
+27. projectMeeting billy 20230509 2000 2 emily
+28. groupStudy billy 20230531 2000 3 cathy danny emily
+29. groupStudy emily 20230512 2100 2 cathy danny
+30. gathering emily 20230505 2000 1 amada
+31. groupStudy amada 20230509 2200 1 cathy danny emily
+32. groupStudy amada 20230509 2200 1 danny emily
+33. projectMeeting amada 20230529 1800 5 billy cathy emily
+34. projectMeeting amada 20230509 1800 1 billy cathy danny
+35. privateTime emily 20230529 1900 1
+36. projectMeeting billy 20230523 2100 1 cathy danny emily
+37. gathering cathy 20230515 2200 1 amada billy danny
+38. groupStudy amada 20230519 2200 1 billy cathy danny
+39. gathering billy 20230501 1900 1 cathy danny emily
+40. groupStudy emily 20230512 2000 2 cathy danny
+41. privateTime billy 20230509 1800 1
+42. groupStudy cathy 20230525 2100 2 amada danny emily
+43. gathering emily 20230512 2100 1 cathy
+44. projectMeeting emily 20230502 2000 1 cathy
+45. groupStudy emily 20230513 2100 1 danny
+46. gathering emily 20230519 2100 2 cathy danny
+47. gathering cathy 20230523 2100 2 billy danny emily
+48. groupStudy amada 20230516 1800 4 emily
+49. gathering danny 20230508 1800 5 billy cathy emily
+50. groupStudy amada 20230516 2000 2 emily
+51. projectMeeting cathy 20230502 2000 3 billy danny emily
+52. projectMeeting billy 20230509 2200 1 cathy danny emily
+53. projectMeeting danny 20230524 2000 3 billy emily
+54. gathering emily 20230516 1800 3 amada billy cathy danny
+55. projectMeeting amada 20230502 2000 1 emily
+56. gathering emily 20230511 1900 3 billy
+57. projectMeeting billy 20230520 1900 1 emily
+58. projectMeeting cathy 20230501 2100 1 amada danny emily
+59. projectMeeting danny 20230502 2200 1 emily
+60. privateTime billy 20230501 1800 4
+61. projectMeeting billy 20230522 2000 2 amada cathy danny emily
+62. projectMeeting danny 20230519 2100 2 amada billy cathy emily
+63. gathering danny 20230510 2000 1 amada billy cathy
+64. projectMeeting cathy 20230504 2000 1 billy danny emily
+65. projectMeeting danny 20230505 2200 1 amada billy cathy emily
+66. projectMeeting danny 20230527 1900 2 amada billy cathy emily
+67. groupStudy amada 20230503 1800 3 cathy danny emily
+68. gathering cathy 20230520 2000 3 emily
+69. gathering danny 20230505 2100 2 emily
+70. groupStudy cathy 20230505 2200 1 danny emily
+71. gathering amada 20230530 2000 1 emily
+72. gathering amada 20230504 2100 1 billy cathy
+73. gathering danny 20230515 2200 1 billy cathy emily
+74. groupStudy emily 20230510 1900 4 amada
+75. gathering emily 20230519 2200 1 cathy
+76. gathering emily 20230515 1900 4 danny
+77. projectMeeting cathy 20230513 1900 1 emily
+78. groupStudy billy 20230531 2000 1 amada cathy danny emily
+79. projectMeeting cathy 20230503 1900 1 danny emily
+80. privateTime danny 20230504 2100 1
+81. gathering cathy 20230504 2000 1 danny emily
+82. privateTime emily 20230518 2200 1
+83. projectMeeting amada 20230508 2000 3 billy cathy danny emily
+84. privateTime cathy 20230527 1900 1
+85. groupStudy billy 20230512 1900 3 emily
+86. groupStudy emily 20230515 2200 1 cathy danny
+87. projectMeeting billy 20230531 2100 2 amada cathy danny emily
+88. groupStudy amada 20230515 2100 1 billy cathy danny emily
+89. groupStudy danny 20230527 2000 1 billy cathy emily
+90. gathering cathy 20230503 1900 2 emily
+91. gathering emily 20230517 1800 1 amada billy cathy danny
+92. groupStudy emily 20230512 1800 3 amada billy cathy danny
+93. groupStudy billy 20230527 2100 2 amada cathy danny emily
+94. privateTime amada 20230513 2000 1
+95. gathering danny 20230522 2100 1 cathy emily
+96. projectMeeting amada 20230506 2000 3 emily
+97. projectMeeting cathy 20230513 1800 5 amada billy danny emily
+98. gathering billy 20230525 2100 2 emily
+99. gathering amada 20230517 1900 1 billy cathy danny emily
+100. groupStudy amada 20230530 2100 2 billy cathy danny emily
+101. projectMeeting amada 20230513 1900 4 danny emily
+102. groupStudy amada 20230505 1800 2 billy cathy danny emily
+103. gathering danny 20230509 2100 1 billy cathy emily
+104. groupStudy emily 20230516 2000 3 billy cathy danny
+105. gathering cathy 20230509 1900 1 billy danny emily
+106. gathering danny 20230516 2100 1 emily
+107. projectMeeting emily 20230503 1900 4 billy cathy danny
+108. gathering billy 20230504 2100 1 danny emily
+109. projectMeeting amada 20230501 2200 1 billy cathy danny emily
+110. projectMeeting amada 20230513 2200 1 cathy danny emily
+111. gathering billy 20230506 1900 2 amada cathy danny
+112. projectMeeting danny 20230522 1800 5 amada billy cathy emily
+113. gathering emily 20230516 2100 1 danny
+114. groupStudy cathy 20230502 1800 4 danny emily
+115. privateTime cathy 20230502 2000 2
+116. groupStudy amada 20230501 1900 4 billy cathy danny emily
+117. groupStudy danny 20230502 1900 1 cathy emily
+118. gathering amada 20230509 2000 1 emily
+119. gathering cathy 20230519 2000 1 amada billy danny emily
+120. gathering amada 20230501 1800 5 danny emily
+121. groupStudy cathy 20230515 1900 2 emily
+122. groupStudy danny 20230503 2200 1 billy cathy emily
+123. gathering danny 20230517 2200 1 billy cathy emily
+124. gathering cathy 20230524 1800 3 emily
+125. groupStudy billy 20230502 2100 1 cathy danny emily
+126. projectMeeting cathy 20230522 2000 3 billy danny emily
+127. projectMeeting emily 20230531 2200 1 billy cathy danny
+128. gathering cathy 20230525 1800 2 emily
+129. projectMeeting danny 20230524 2100 2 billy cathy emily
+130. gathering danny 20230512 2000 1 amada billy cathy emily
+131. groupStudy cathy 20230506 2200 1 danny emily
+132. gathering billy 20230523 2100 1 cathy danny emily
+133. groupStudy emily 20230502 1900 1 billy
+134. projectMeeting billy 20230510 1800 5 cathy danny emily
+135. projectMeeting danny 20230529 1800 3 cathy emily
+136. groupStudy amada 20230516 1900 4 billy cathy danny
+137. projectMeeting cathy 20230530 1800 5 billy danny emily
+138. groupStudy danny 20230522 1800 1 emily
+139. projectMeeting amada 20230501 2200 1 danny emily
+140. groupStudy billy 20230527 1800 2 emily
+141. gathering cathy 20230516 2000 1 amada billy danny
+142. groupStudy danny 20230517 2000 2 billy cathy emily
+143. projectMeeting emily 20230524 1900 3 billy cathy danny
+144. projectMeeting amada 20230509 1800 4 billy cathy danny emily
+145. groupStudy danny 20230509 2000 1 amada billy cathy emily
+146. groupStudy billy 20230504 1900 1 cathy danny emily
+147. groupStudy billy 20230527 1900 4 cathy danny emily
+148. groupStudy billy 20230502 1800 2 cathy danny emily
+149. projectMeeting billy 20230525 2100 1 danny emily
+150. gathering billy 20230503 1800 3 cathy danny emily
+151. projectMeeting cathy 20230503 2100 1 danny emily
+152. projectMeeting danny 20230513 2000 1 amada billy emily
+153. gathering billy 20230505 2100 1 amada cathy danny
+154. gathering amada 20230519 2100 2 danny emily
+155. gathering amada 20230503 2100 2 emily
+156. groupStudy danny 20230527 2200 1 emily
+157. projectMeeting emily 20230505 2200 1 amada billy cathy danny
+158. projectMeeting danny 20230503 1800 4 amada billy emily
+159. gathering billy 20230520 2000 2 amada cathy danny emily
+160. projectMeeting cathy 20230531 1800 3 amada billy danny
+161. groupStudy emily 20230510 2200 1 cathy
+162. gathering billy 20230511 2000 2 amada cathy danny
+163. groupStudy amada 20230517 2000 1 danny emily
+164. projectMeeting billy 20230513 1800 1 amada cathy danny emily
+165. groupStudy danny 20230522 2200 1 emily
+166. groupStudy billy 20230506 2000 1 cathy danny emily
+167. privateTime billy 20230501 2200 1
+168. gathering danny 20230515 1800 5 billy cathy emily
+169. groupStudy amada 20230519 1800 5 billy cathy danny emily
+170. projectMeeting billy 20230509 2000 2 emily
+171. gathering emily 20230504 2000 1 danny
+172. gathering danny 20230502 2100 1 emily
+173. groupStudy cathy 20230530 2000 2 emily
+174. groupStudy cathy 20230519 2000 1 billy danny emily
+175. gathering danny 20230512 1900 4 billy cathy emily
+176. groupStudy amada 20230529 1900 2 cathy danny emily
+177. groupStudy amada 20230517 2200 1 emily
+178. gathering amada 20230504 2000 1 danny emily
+179. groupStudy danny 20230524 1900 1 amada billy cathy emily
+180. groupStudy amada 20230511 1800 5 danny emily
+181. gathering danny 20230503 1800 2 amada billy cathy emily
+182. groupStudy cathy 20230518 2000 1 danny emily
+183. groupStudy amada 20230516 2200 1 emily
+184. projectMeeting cathy 20230523 1900 4 amada billy danny emily
+185. groupStudy emily 20230505 2100 2 cathy danny
+186. gathering emily 20230520 2000 2 amada billy cathy danny
+187. groupStudy emily 20230505 2100 1 cathy danny
+188. groupStudy cathy 20230520 1800 1 danny emily
+189. projectMeeting cathy 20230519 2100 1 amada billy danny emily
+190. groupStudy danny 20230522 2200 1 billy emily
+191. privateTime amada 20230501 1800 2
+192. groupStudy amada 20230513 1800 4 emily
+193. gathering amada 20230527 2000 1 billy cathy danny
+194. projectMeeting cathy 20230519 2200 1 billy danny emily
+195. projectMeeting amada 20230510 2000 3 emily
+196. gathering cathy 20230527 2000 1 amada billy danny emily
+197. groupStudy cathy 20230520 1900 1 amada billy danny emily
+198. gathering amada 20230502 2000 2 billy cathy danny
+199. groupStudy danny 20230512 2000 3 cathy emily
+200. gathering amada 20230508 1900 2 billy cathy danny
+201. privateTime emily 20230501 2000 2
+202. gathering billy 20230523 2200 1 danny emily
+203. groupStudy emily 20230530 1800 1 amada billy cathy danny
+204. groupStudy billy 20230525 2200 1 danny emily
+205. gathering emily 20230503 1900 1 amada billy cathy danny
+206. gathering danny 20230511 2000 1 cathy emily
+207. gathering cathy 20230519 2200 1 danny emily
+208. groupStudy danny 20230519 2100 1 emily
+209. gathering billy 20230503 2100 2 amada cathy danny
+210. projectMeeting billy 20230506 2000 2 amada cathy danny emily
+211. gathering cathy 20230518 1900 4 amada billy danny
+212. groupStudy amada 20230523 2200 1 danny emily
+Altogether there are 212 appointments rejected.
+
+*** Performance ***
+Total Number of Requests Received: 315.0(100%)
+      Number of Requests Accepted: 103.0(32.7%)
+      Number of Requests Rejected: 212.0(67.3%)
+
+Number of Requests Accepted by Individual:
+Amada - 21
+Billy - 19
+Cathy - 22
+Danny - 35
+Emily - 29
+
+Utilization of Time Slot:
+Amada      - 40.0%
+Billy      - 34.8%
+Cathy      - 52.9%
+Danny      - 60.0%
+Emily      - 58.7%

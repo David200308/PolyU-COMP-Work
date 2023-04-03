@@ -1,0 +1,154 @@
+Period: 2023-05-01 to 2023-05-31
+Algorithm used: FCFS
+
+***Appointment Schedule***
+
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-15   20:00   23:00   Private Time     
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Amada, you have 9 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-02   19:00   22:00   Private Time     
+2023-05-03   22:00   23:00   Private Time     
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-13   19:00   22:00   Private Time     
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Billy, you have 13 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Cathy, you have 7 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Danny, you have 8 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Emily, you have 9 appointments
+========================================================
+Period: 2023-05-01 to 2023-05-31
+Algorithm used: PRIORITY
+
+***Appointment Schedule***
+
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-15   20:00   23:00   Private Time     
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Amada,you have 9 appointments
+               - End of amada's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-02   19:00   22:00   Private Time     
+2023-05-03   22:00   23:00   Private Time     
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-13   19:00   22:00   Private Time     
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Billy,you have 13 appointments
+               - End of billy's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Cathy,you have 6 appointments
+               - End of cathy's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Danny,you have 7 appointments
+               - End of danny's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+Emily,you have 8 appointments
+               - End of emily's Schedule -
+========================================================
+
+

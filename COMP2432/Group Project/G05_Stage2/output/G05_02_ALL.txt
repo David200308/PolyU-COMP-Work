@@ -1,0 +1,91 @@
+Period: 2023-05-01 to 2023-05-31
+Algorithm used: FCFS
+
+***Appointment Schedule***
+
+Date         Start    End      Type           People
+========================================================
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-15   20:00   23:00   Private Time     
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+Amada, you have 3 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-02   19:00   22:00   Private Time     
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+Billy, you have 3 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+Cathy, you have 2 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+Danny, you have 2 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+Emily, you have 3 appointments
+========================================================
+Period: 2023-05-01 to 2023-05-31
+Algorithm used: PRIORITY
+
+***Appointment Schedule***
+
+Date         Start    End      Type           People
+========================================================
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-15   20:00   23:00   Private Time     
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+Amada,you have 3 appointments
+               - End of amada's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-02   19:00   22:00   Private Time     
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+Billy,you have 3 appointments
+               - End of billy's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+Cathy,you have 2 appointments
+               - End of cathy's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+Danny,you have 2 appointments
+               - End of danny's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+Emily,you have 3 appointments
+               - End of emily's Schedule -
+========================================================
+
+

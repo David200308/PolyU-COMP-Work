@@ -1,0 +1,315 @@
+privateTime billy 20230502 1900 3.0
+groupStudy cathy 20230505 1800 4.0 danny emily
+privateTime amada 20230515 2000 3.0
+gathering danny 20230511 1800 5.0 amada billy cathy emily
+groupStudy emily 20230516 2000 3.0 amada billy
+gathering billy 20230520 1800 5.0 amada cathy danny emily
+projectMeeting cathy 20230512 1800 4.0 billy danny
+groupStudy cathy 20230523 2000 2.0 amada billy danny emily
+groupStudy emily 20230524 2000 3.0 amada billy
+projectMeeting cathy 20230508 2100 2.0 amada billy
+privateTime billy 20230513 1900 3.0
+privateTime billy 20230503 2200 1.0
+gathering danny 20230527 1900 3.0 billy emily
+groupStudy emily 20230530 1900 3.0 amada billy cathy danny
+projectMeeting billy 20230505 2000 1.0 amada danny emily
+gathering amada 20230503 1800 5 danny emily
+projectMeeting danny 20230518 2100 1 amada billy cathy emily
+projectMeeting amada 20230527 2200 1 billy cathy danny emily
+projectMeeting emily 20230515 2200 1 cathy danny
+groupStudy cathy 20230522 1900 4 emily
+privateTime billy 20230509 2100 1
+projectMeeting amada 20230509 2000 2 emily
+gathering danny 20230518 2100 1 amada billy cathy emily
+projectMeeting danny 20230510 2100 2 billy cathy emily
+groupStudy amada 20230525 1900 2 cathy danny emily
+groupStudy emily 20230504 2100 2 amada billy cathy danny
+groupStudy billy 20230530 2200 1 cathy danny emily
+projectMeeting emily 20230513 2200 1 cathy danny
+gathering danny 20230519 1800 1 amada billy cathy emily
+projectMeeting emily 20230523 1900 4 amada billy
+groupStudy cathy 20230522 1800 5 amada danny emily
+gathering billy 20230508 1800 4 cathy danny emily
+gathering danny 20230523 2100 2 amada billy cathy emily
+privateTime emily 20230523 2000 1
+projectMeeting billy 20230509 2000 2 emily
+groupStudy billy 20230531 2000 3 cathy danny emily
+groupStudy emily 20230512 2100 2 cathy danny
+gathering emily 20230505 2000 1 amada
+groupStudy amada 20230509 2200 1 cathy danny emily
+privateTime cathy 20230524 2100 1
+groupStudy amada 20230509 2200 1 danny emily
+privateTime amada 20230520 2200 1
+projectMeeting emily 20230505 1900 3 amada
+projectMeeting amada 20230529 1800 5 billy cathy emily
+projectMeeting amada 20230509 1800 1 billy cathy danny
+privateTime emily 20230529 1900 1
+privateTime emily 20230512 2000 2
+groupStudy danny 20230504 1900 2 emily
+projectMeeting billy 20230523 2100 1 cathy danny emily
+privateTime cathy 20230506 1800 4
+gathering cathy 20230515 2200 1 amada billy danny
+privateTime danny 20230518 1800 2
+groupStudy amada 20230519 2200 1 billy cathy danny
+projectMeeting emily 20230529 2200 1 cathy danny
+gathering billy 20230501 1900 1 cathy danny emily
+groupStudy emily 20230512 2000 2 cathy danny
+privateTime emily 20230506 1900 2
+privateTime cathy 20230525 1800 1
+privateTime billy 20230509 1800 1
+privateTime danny 20230505 1900 2
+groupStudy cathy 20230525 2100 2 amada danny emily
+gathering emily 20230512 2100 1 cathy
+privateTime emily 20230502 2000 1
+projectMeeting emily 20230502 2000 1 cathy
+groupStudy emily 20230513 2100 1 danny
+privateTime billy 20230513 1800 1
+privateTime cathy 20230505 1800 2
+gathering emily 20230519 2100 2 cathy danny
+privateTime billy 20230510 1800 1
+gathering cathy 20230523 2100 2 billy danny emily
+groupStudy amada 20230516 1800 4 emily
+projectMeeting amada 20230517 2200 1 emily
+gathering danny 20230508 1800 5 billy cathy emily
+groupStudy amada 20230516 2000 2 emily
+privateTime amada 20230522 1800 3
+privateTime amada 20230511 2100 1
+projectMeeting cathy 20230502 2000 3 billy danny emily
+projectMeeting billy 20230509 2200 1 cathy danny emily
+privateTime billy 20230529 2100 1
+projectMeeting danny 20230524 2000 3 billy emily
+privateTime cathy 20230506 2200 1
+privateTime danny 20230529 1800 2
+gathering emily 20230516 1800 3 amada billy cathy danny
+groupStudy danny 20230511 2000 1 billy cathy emily
+projectMeeting amada 20230502 2000 1 emily
+gathering emily 20230511 1900 3 billy
+projectMeeting billy 20230520 1900 1 emily
+projectMeeting cathy 20230501 2100 1 amada danny emily
+privateTime cathy 20230515 2200 1
+projectMeeting danny 20230504 1800 2 amada billy cathy emily
+projectMeeting amada 20230517 1900 1 cathy danny emily
+privateTime amada 20230529 1800 3
+projectMeeting danny 20230502 2200 1 emily
+projectMeeting emily 20230527 2000 1 billy danny
+privateTime billy 20230501 1800 4
+projectMeeting billy 20230522 2000 2 amada cathy danny emily
+projectMeeting danny 20230519 2100 2 amada billy cathy emily
+privateTime amada 20230525 1900 1
+gathering danny 20230510 2000 1 amada billy cathy
+projectMeeting cathy 20230504 2000 1 billy danny emily
+privateTime amada 20230527 2100 1
+privateTime billy 20230504 2000 1
+projectMeeting danny 20230503 1900 2 emily
+privateTime amada 20230503 2200 1
+privateTime danny 20230512 1900 2
+groupStudy danny 20230511 1900 1 amada cathy emily
+projectMeeting danny 20230505 2200 1 amada billy cathy emily
+projectMeeting danny 20230527 1900 2 amada billy cathy emily
+groupStudy amada 20230503 1800 3 cathy danny emily
+gathering cathy 20230520 2000 3 emily
+privateTime amada 20230531 1800 2
+gathering danny 20230505 2100 2 emily
+groupStudy cathy 20230505 2200 1 danny emily
+gathering amada 20230530 2000 1 emily
+privateTime danny 20230527 2100 2
+projectMeeting emily 20230522 1900 1 billy danny
+privateTime danny 20230509 1900 3
+gathering amada 20230504 2100 1 billy cathy
+gathering danny 20230515 2200 1 billy cathy emily
+groupStudy emily 20230510 1900 4 amada
+gathering emily 20230519 2200 1 cathy
+privateTime cathy 20230512 2100 1
+gathering emily 20230515 1900 4 danny
+projectMeeting danny 20230516 2100 1 billy cathy emily
+projectMeeting cathy 20230513 1900 1 emily
+groupStudy billy 20230531 2000 1 amada cathy danny emily
+projectMeeting cathy 20230503 1900 1 danny emily
+privateTime emily 20230518 1800 2
+privateTime danny 20230504 2100 1
+privateTime cathy 20230531 1800 5
+gathering cathy 20230504 2000 1 danny emily
+projectMeeting danny 20230515 1800 1 amada billy cathy emily
+privateTime emily 20230518 2200 1
+projectMeeting amada 20230508 2000 3 billy cathy danny emily
+privateTime cathy 20230527 1900 1
+privateTime emily 20230529 1800 3
+groupStudy billy 20230512 1900 3 emily
+privateTime danny 20230508 2000 1
+privateTime danny 20230504 2000 3
+groupStudy emily 20230515 2200 1 cathy danny
+projectMeeting emily 20230525 2200 1 cathy
+projectMeeting billy 20230531 2100 2 amada cathy danny emily
+groupStudy amada 20230515 2100 1 billy cathy danny emily
+privateTime danny 20230522 2000 1
+groupStudy danny 20230527 2000 1 billy cathy emily
+gathering cathy 20230503 1900 2 emily
+gathering emily 20230517 1800 1 amada billy cathy danny
+groupStudy emily 20230512 1800 3 amada billy cathy danny
+groupStudy amada 20230512 2200 1 danny emily
+groupStudy billy 20230527 2100 2 amada cathy danny emily
+projectMeeting danny 20230524 1900 1 emily
+privateTime amada 20230513 2000 1
+gathering danny 20230522 2100 1 cathy emily
+projectMeeting amada 20230506 2000 3 emily
+projectMeeting cathy 20230513 1800 5 amada billy danny emily
+gathering billy 20230525 2100 2 emily
+gathering amada 20230517 1900 1 billy cathy danny emily
+groupStudy amada 20230530 2100 2 billy cathy danny emily
+projectMeeting amada 20230513 1900 4 danny emily
+groupStudy amada 20230505 1800 2 billy cathy danny emily
+gathering danny 20230509 2100 1 billy cathy emily
+groupStudy emily 20230516 2000 3 billy cathy danny
+privateTime billy 20230509 1800 2
+gathering cathy 20230509 1900 1 billy danny emily
+gathering danny 20230516 2100 1 emily
+privateTime cathy 20230503 1900 4
+projectMeeting emily 20230503 1900 4 billy cathy danny
+projectMeeting emily 20230513 1900 1 cathy danny
+privateTime cathy 20230530 2200 1
+gathering billy 20230504 2100 1 danny emily
+projectMeeting emily 20230517 2000 1 cathy danny
+projectMeeting amada 20230501 2200 1 billy cathy danny emily
+projectMeeting amada 20230513 2200 1 cathy danny emily
+gathering billy 20230506 1900 2 amada cathy danny
+projectMeeting danny 20230522 1800 5 amada billy cathy emily
+gathering emily 20230516 2100 1 danny
+groupStudy cathy 20230502 1800 4 danny emily
+privateTime cathy 20230502 2000 2
+groupStudy amada 20230501 1900 4 billy cathy danny emily
+groupStudy danny 20230502 1900 1 cathy emily
+gathering amada 20230509 2000 1 emily
+gathering cathy 20230519 2000 1 amada billy danny emily
+privateTime danny 20230502 1800 2
+gathering amada 20230501 1800 5 danny emily
+groupStudy cathy 20230515 1900 2 emily
+groupStudy danny 20230503 2200 1 billy cathy emily
+privateTime billy 20230508 2100 2
+gathering danny 20230517 2200 1 billy cathy emily
+privateTime billy 20230525 2200 1
+gathering cathy 20230524 1800 3 emily
+groupStudy billy 20230502 2100 1 cathy danny emily
+projectMeeting cathy 20230522 2000 3 billy danny emily
+privateTime cathy 20230527 1800 2
+privateTime billy 20230519 2200 1
+projectMeeting emily 20230531 2200 1 billy cathy danny
+privateTime cathy 20230502 2100 2
+projectMeeting amada 20230508 1900 2 emily
+gathering cathy 20230525 1800 2 emily
+projectMeeting danny 20230524 2100 2 billy cathy emily
+gathering danny 20230512 2000 1 amada billy cathy emily
+groupStudy cathy 20230506 2200 1 danny emily
+gathering billy 20230523 2100 1 cathy danny emily
+groupStudy emily 20230502 1900 1 billy
+projectMeeting billy 20230510 1800 5 cathy danny emily
+projectMeeting danny 20230529 1800 3 cathy emily
+groupStudy amada 20230516 1900 4 billy cathy danny
+projectMeeting cathy 20230530 1800 5 billy danny emily
+groupStudy danny 20230522 1800 1 emily
+projectMeeting cathy 20230515 1900 1 danny emily
+projectMeeting amada 20230501 2200 1 danny emily
+groupStudy billy 20230527 1800 2 emily
+gathering cathy 20230516 2000 1 amada billy danny
+privateTime cathy 20230519 1900 3
+groupStudy danny 20230517 2000 2 billy cathy emily
+projectMeeting emily 20230524 1900 3 billy cathy danny
+projectMeeting amada 20230509 1800 4 billy cathy danny emily
+groupStudy danny 20230509 2000 1 amada billy cathy emily
+groupStudy billy 20230504 1900 1 cathy danny emily
+groupStudy billy 20230527 1900 4 cathy danny emily
+groupStudy billy 20230502 1800 2 cathy danny emily
+projectMeeting billy 20230525 2100 1 danny emily
+projectMeeting amada 20230502 2200 1 danny emily
+gathering billy 20230503 1800 3 cathy danny emily
+privateTime danny 20230515 2100 1
+projectMeeting cathy 20230503 2100 1 danny emily
+projectMeeting danny 20230513 2000 1 amada billy emily
+gathering billy 20230505 2100 1 amada cathy danny
+gathering amada 20230519 2100 2 danny emily
+projectMeeting cathy 20230522 2100 2 billy danny emily
+privateTime amada 20230509 2000 1
+gathering amada 20230503 2100 2 emily
+groupStudy danny 20230527 2200 1 emily
+projectMeeting emily 20230505 2200 1 amada billy cathy danny
+projectMeeting danny 20230503 1800 4 amada billy emily
+gathering billy 20230520 2000 2 amada cathy danny emily
+privateTime danny 20230506 2200 1
+projectMeeting cathy 20230531 1800 3 amada billy danny
+projectMeeting emily 20230509 2200 1 cathy danny
+privateTime danny 20230506 1800 3
+groupStudy emily 20230510 2200 1 cathy
+gathering billy 20230511 2000 2 amada cathy danny
+groupStudy amada 20230517 2000 1 danny emily
+projectMeeting billy 20230513 1800 1 amada cathy danny emily
+projectMeeting billy 20230510 1900 1 cathy danny emily
+groupStudy danny 20230522 2200 1 emily
+privateTime billy 20230503 2200 1
+projectMeeting billy 20230520 1900 2 cathy danny emily
+groupStudy billy 20230506 2000 1 cathy danny emily
+privateTime amada 20230530 2200 1
+privateTime billy 20230501 2200 1
+gathering danny 20230515 1800 5 billy cathy emily
+privateTime cathy 20230512 1800 3
+projectMeeting billy 20230515 2200 1 danny emily
+groupStudy amada 20230519 1800 5 billy cathy danny emily
+projectMeeting billy 20230509 2000 2 emily
+gathering emily 20230504 2000 1 danny
+privateTime danny 20230523 1800 4
+projectMeeting cathy 20230530 1800 1 amada billy danny emily
+gathering danny 20230502 2100 1 emily
+groupStudy cathy 20230530 2000 2 emily
+groupStudy cathy 20230519 2000 1 billy danny emily
+gathering danny 20230512 1900 4 billy cathy emily
+groupStudy amada 20230529 1900 2 cathy danny emily
+groupStudy amada 20230517 2200 1 emily
+gathering amada 20230504 2000 1 danny emily
+privateTime danny 20230512 2100 1
+groupStudy danny 20230524 1900 1 amada billy cathy emily
+projectMeeting danny 20230530 2200 1 billy emily
+groupStudy amada 20230511 1800 5 danny emily
+privateTime emily 20230510 2200 1
+gathering danny 20230503 1800 2 amada billy cathy emily
+groupStudy cathy 20230525 2000 1 amada billy danny emily
+groupStudy cathy 20230520 2100 1 emily
+groupStudy cathy 20230518 2000 1 danny emily
+groupStudy amada 20230516 2200 1 emily
+projectMeeting cathy 20230523 1900 4 amada billy danny emily
+groupStudy emily 20230505 2100 2 cathy danny
+gathering emily 20230520 2000 2 amada billy cathy danny
+groupStudy emily 20230505 2100 1 cathy danny
+groupStudy cathy 20230520 1800 1 danny emily
+projectMeeting danny 20230513 2200 1 emily
+groupStudy emily 20230516 2200 1 cathy danny
+projectMeeting cathy 20230519 2100 1 amada billy danny emily
+groupStudy danny 20230522 2200 1 billy emily
+privateTime emily 20230518 2000 3
+privateTime amada 20230506 1900 3
+privateTime amada 20230501 1800 2
+groupStudy amada 20230513 1800 4 emily
+projectMeeting amada 20230523 2200 1 emily
+gathering amada 20230527 2000 1 billy cathy danny
+projectMeeting cathy 20230519 2200 1 billy danny emily
+projectMeeting amada 20230510 2000 3 emily
+privateTime danny 20230524 2100 2
+gathering cathy 20230527 2000 1 amada billy danny emily
+groupStudy cathy 20230520 1900 1 amada billy danny emily
+gathering amada 20230502 2000 2 billy cathy danny
+groupStudy danny 20230512 2000 3 cathy emily
+gathering amada 20230508 1900 2 billy cathy danny
+privateTime emily 20230501 2000 2
+privateTime amada 20230527 1900 1
+gathering billy 20230523 2200 1 danny emily
+groupStudy emily 20230530 1800 1 amada billy cathy danny
+groupStudy billy 20230525 2200 1 danny emily
+privateTime amada 20230523 1800 4
+gathering emily 20230503 1900 1 amada billy cathy danny
+privateTime amada 20230513 2000 2
+gathering danny 20230511 2000 1 cathy emily
+privateTime danny 20230519 1900 4
+gathering cathy 20230519 2200 1 danny emily
+groupStudy danny 20230519 2100 1 emily
+privateTime billy 20230531 1900 1
+gathering billy 20230503 2100 2 amada cathy danny
+projectMeeting billy 20230506 2000 2 amada cathy danny emily
+gathering cathy 20230518 1900 4 amada billy danny
+groupStudy amada 20230523 2200 1 danny emily

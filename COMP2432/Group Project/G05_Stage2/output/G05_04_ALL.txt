@@ -1,0 +1,597 @@
+Period: 2023-05-01 to 2023-05-31
+Algorithm used: FCFS
+
+***Appointment Schedule***
+
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-18   21:00   22:00   Gathering         => 20230501 1900 Amada Billy Cathy Emily
+2023-05-20   22:00   23:00   Private Time      => 20230501 2000
+2023-05-11   21:00   22:00   Private Time      => 20230501 2100
+2023-05-09   18:00   19:00   Project Meeting   => 20230501 2200 Billy Cathy Danny
+2023-05-23   18:00   22:00   Private Time      => 20230512 1800
+2023-05-17   18:00   19:00   Gathering         => 20230512 2200 Amada Billy Cathy Danny
+2023-05-23   22:00   23:00   Group Study       => 20230513 1800 Danny Emily
+2023-05-10   19:00   23:00   Group Study       => 20230513 1800 Amada
+2023-05-03   18:00   23:00   Gathering         Danny Emily
+2023-05-18   19:00   23:00   Gathering         => 20230514 1800 Amada Billy Danny
+2023-05-11   18:00   23:00   Group Study       => 20230514 1800 Danny Emily
+2023-05-29   18:00   21:00   Private Time      => 20230505 1800
+2023-05-25   19:00   20:00   Private Time      => 20230505 2100
+2023-05-09   22:00   23:00   Group Study       => 20230505 2200 Cathy Danny Emily
+2023-05-23   19:00   23:00   Project Meeting   => 20230506 1800 Amada Billy
+2023-05-09   22:00   23:00   Group Study       => 20230506 2200 Danny Emily
+2023-05-27   21:00   22:00   Private Time      => 20230507 1800
+2023-05-03   22:00   23:00   Private Time      => 20230507 1900
+2023-05-09   20:00   21:00   Private Time      => 20230507 2000
+2023-05-30   22:00   23:00   Private Time      => 20230507 2100
+2023-05-15   22:00   23:00   Gathering         => 20230507 2200 Amada Billy Danny
+2023-05-13   20:00   22:00   Private Time      => 20230508 1800
+2023-05-04   21:00   22:00   Gathering         => 20230508 2000 Billy Cathy
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-09   20:00   22:00   Project Meeting   Emily
+2023-05-06   19:00   22:00   Private Time      => 20230510 1800
+2023-05-19   22:00   23:00   Group Study       => 20230510 2100 Billy Cathy Danny
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   22:00   23:00   Group Study       Danny Emily
+2023-05-13   20:00   21:00   Private Time     
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   20:00   23:00   Private Time     
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-17   19:00   20:00   Project Meeting   Cathy Danny Emily
+2023-05-17   22:00   23:00   Project Meeting   Emily
+2023-05-18   21:00   22:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-19   20:00   21:00   Gathering         Amada Billy Danny Emily
+2023-05-19   21:00   22:00   Project Meeting   Amada Billy Danny Emily
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-22   18:00   21:00   Private Time     
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-23   22:00   23:00   Project Meeting   Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-25   19:00   21:00   Group Study       Cathy Danny Emily
+2023-05-25   21:00   23:00   Group Study       Amada Danny Emily
+2023-05-27   19:00   20:00   Private Time     
+2023-05-27   22:00   23:00   Project Meeting   Billy Cathy Danny Emily
+2023-05-29   18:00   23:00   Project Meeting   Billy Cathy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-31   18:00   20:00   Private Time     
+2023-05-31   20:00   21:00   Group Study       Amada Cathy Danny Emily
+Amada, you have 53 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-18   21:00   22:00   Gathering         => 20230501 1900 Amada Billy Cathy Emily
+2023-05-10   21:00   23:00   Project Meeting   => 20230501 2000 Billy Cathy Emily
+2023-05-09   18:00   19:00   Project Meeting   => 20230501 2200 Billy Cathy Danny
+2023-05-13   18:00   19:00   Private Time      => 20230502 1800
+2023-05-02   19:00   22:00   Private Time     
+2023-05-17   18:00   19:00   Gathering         => 20230512 2200 Amada Billy Cathy Danny
+2023-05-03   19:00   20:00   Gathering         => 20230513 1800 Amada Billy Cathy Danny
+2023-05-04   20:00   21:00   Private Time      => 20230503 1900
+2023-05-09   18:00   20:00   Private Time      => 20230503 2000
+2023-05-03   22:00   23:00   Private Time     
+2023-05-18   19:00   23:00   Gathering         => 20230514 1800 Amada Billy Danny
+2023-05-19   18:00   23:00   Group Study       => 20230514 1800 Billy Cathy Danny Emily
+2023-05-08   21:00   23:00   Private Time      => 20230505 1800
+2023-05-19   22:00   23:00   Private Time      => 20230505 2000
+2023-05-03   22:00   23:00   Private Time      => 20230505 2100
+2023-05-31   19:00   20:00   Private Time      => 20230505 2200
+2023-05-23   19:00   23:00   Project Meeting   => 20230506 1800 Amada Billy
+2023-05-08   18:00   22:00   Gathering         => 20230507 1800 Cathy Danny Emily
+2023-05-15   22:00   23:00   Gathering         => 20230507 2200 Amada Billy Danny
+2023-05-09   20:00   22:00   Project Meeting   => 20230508 1800 Emily
+2023-05-04   21:00   22:00   Gathering         => 20230508 2000 Billy Cathy
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-09   18:00   19:00   Private Time     
+2023-05-09   21:00   22:00   Private Time     
+2023-05-23   21:00   22:00   Project Meeting   => 20230509 2200 Cathy Danny Emily
+2023-05-31   20:00   23:00   Group Study       => 20230510 1800 Cathy Danny Emily
+2023-05-19   22:00   23:00   Group Study       => 20230510 2100 Billy Cathy Danny
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-13   19:00   22:00   Private Time     
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-18   21:00   22:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-19   20:00   21:00   Gathering         Amada Billy Danny Emily
+2023-05-19   21:00   22:00   Project Meeting   Amada Billy Danny Emily
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-25   22:00   23:00   Private Time     
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-27   22:00   23:00   Project Meeting   Billy Cathy Danny Emily
+2023-05-29   18:00   23:00   Project Meeting   Billy Cathy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Group Study       Cathy Danny Emily
+2023-05-31   20:00   21:00   Group Study       Amada Cathy Danny Emily
+Billy, you have 47 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-25   18:00   19:00   Private Time      => 20230501 1800
+2023-05-18   21:00   22:00   Gathering         => 20230501 1900 Amada Billy Cathy Emily
+2023-05-10   21:00   23:00   Project Meeting   => 20230501 2000 Billy Cathy Emily
+2023-05-09   18:00   19:00   Project Meeting   => 20230501 2200 Billy Cathy Danny
+2023-05-22   18:00   23:00   Group Study       => 20230502 1800 Amada Danny Emily
+2023-05-17   18:00   19:00   Gathering         => 20230512 2200 Amada Billy Cathy Danny
+2023-05-19   22:00   23:00   Gathering         => 20230513 1800 Danny Emily
+2023-05-20   20:00   23:00   Gathering         => 20230513 1800 Emily
+2023-05-05   21:00   23:00   Group Study       => 20230513 2000 Cathy Danny
+2023-05-06   22:00   23:00   Private Time      => 20230503 2200
+2023-05-18   19:00   23:00   Gathering         => 20230514 1800 Amada Billy Danny
+2023-05-19   18:00   23:00   Group Study       => 20230514 1800 Billy Cathy Danny Emily
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-09   22:00   23:00   Group Study       => 20230505 2200 Cathy Danny Emily
+2023-05-06   18:00   22:00   Private Time     
+2023-05-15   22:00   23:00   Private Time      => 20230506 2200
+2023-05-08   18:00   22:00   Gathering         => 20230507 1800 Cathy Danny Emily
+2023-05-15   22:00   23:00   Gathering         => 20230507 2200 Amada Billy Danny
+2023-05-12   21:00   22:00   Private Time      => 20230508 1800
+2023-05-30   22:00   23:00   Private Time      => 20230508 1900
+2023-05-04   21:00   22:00   Gathering         => 20230508 2000 Billy Cathy
+2023-05-08   21:00   23:00   Project Meeting   Amada Billy
+2023-05-12   21:00   23:00   Group Study       => 20230509 1800 Cathy Danny
+2023-05-02   20:00   22:00   Private Time      => 20230509 2000
+2023-05-23   21:00   22:00   Project Meeting   => 20230509 2200 Cathy Danny Emily
+2023-05-31   20:00   23:00   Group Study       => 20230510 1800 Cathy Danny Emily
+2023-05-19   22:00   23:00   Group Study       => 20230510 2100 Billy Cathy Danny
+2023-05-29   22:00   23:00   Project Meeting   => 20230510 2200 Cathy Danny
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-13   19:00   20:00   Project Meeting   Emily
+2023-05-13   22:00   23:00   Project Meeting   Cathy Danny
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   19:00   21:00   Group Study       Emily
+2023-05-15   22:00   23:00   Project Meeting   Cathy Danny
+2023-05-17   19:00   20:00   Project Meeting   Cathy Danny Emily
+2023-05-17   20:00   21:00   Project Meeting   Cathy Danny
+2023-05-18   21:00   22:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-19   20:00   21:00   Gathering         Amada Billy Danny Emily
+2023-05-19   21:00   22:00   Project Meeting   Amada Billy Danny Emily
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-22   19:00   23:00   Group Study       Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   21:00   22:00   Private Time     
+2023-05-25   19:00   21:00   Group Study       Cathy Danny Emily
+2023-05-25   21:00   23:00   Group Study       Amada Danny Emily
+2023-05-27   19:00   20:00   Private Time     
+2023-05-27   22:00   23:00   Project Meeting   Billy Cathy Danny Emily
+2023-05-29   18:00   23:00   Project Meeting   Billy Cathy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Group Study       Cathy Danny Emily
+2023-05-31   20:00   21:00   Group Study       Amada Cathy Danny Emily
+Cathy, you have 53 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-18   21:00   22:00   Gathering         => 20230501 1900 Amada Billy Cathy Emily
+2023-05-10   21:00   23:00   Project Meeting   => 20230501 2000 Billy Cathy Emily
+2023-05-09   18:00   19:00   Project Meeting   => 20230501 2200 Billy Cathy Danny
+2023-05-22   18:00   23:00   Group Study       => 20230502 1800 Amada Danny Emily
+2023-05-17   18:00   19:00   Gathering         => 20230512 2200 Amada Billy Cathy Danny
+2023-05-23   22:00   23:00   Group Study       => 20230513 1800 Danny Emily
+2023-05-19   19:00   23:00   Private Time      => 20230513 1800
+2023-05-03   18:00   23:00   Gathering         Danny Emily
+2023-05-18   19:00   23:00   Gathering         => 20230514 1800 Amada Billy Danny
+2023-05-11   18:00   23:00   Group Study       => 20230514 1800 Danny Emily
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-09   22:00   23:00   Group Study       => 20230505 2200 Cathy Danny Emily
+2023-05-05   19:00   21:00   Private Time      => 20230506 1800
+2023-05-12   19:00   21:00   Private Time      => 20230506 2000
+2023-05-09   22:00   23:00   Group Study       => 20230506 2200 Danny Emily
+2023-05-08   18:00   22:00   Gathering         => 20230507 1800 Cathy Danny Emily
+2023-05-15   22:00   23:00   Gathering         => 20230507 2200 Amada Billy Danny
+2023-05-27   21:00   23:00   Private Time      => 20230508 1800
+2023-05-04   19:00   21:00   Group Study       => 20230508 2000 Emily
+2023-05-04   21:00   22:00   Private Time      => 20230508 2200
+2023-05-12   21:00   23:00   Group Study       => 20230509 1800 Cathy Danny
+2023-05-08   20:00   21:00   Private Time      => 20230509 2000
+2023-05-15   21:00   22:00   Private Time      => 20230509 2100
+2023-05-23   21:00   22:00   Project Meeting   => 20230509 2200 Cathy Danny Emily
+2023-05-31   20:00   23:00   Group Study       => 20230510 1800 Cathy Danny Emily
+2023-05-19   22:00   23:00   Group Study       => 20230510 2100 Billy Cathy Danny
+2023-05-29   22:00   23:00   Project Meeting   => 20230510 2200 Cathy Danny
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   18:00   22:00   Project Meeting   Billy Danny
+2023-05-12   22:00   23:00   Group Study       Danny Emily
+2023-05-13   22:00   23:00   Project Meeting   Cathy Danny
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   22:00   23:00   Project Meeting   Cathy Danny
+2023-05-17   19:00   20:00   Project Meeting   Cathy Danny Emily
+2023-05-17   20:00   21:00   Project Meeting   Cathy Danny
+2023-05-18   18:00   20:00   Private Time     
+2023-05-18   21:00   22:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-19   20:00   21:00   Gathering         Amada Billy Danny Emily
+2023-05-19   21:00   22:00   Project Meeting   Amada Billy Danny Emily
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-22   20:00   21:00   Private Time     
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-24   21:00   23:00   Private Time     
+2023-05-25   19:00   21:00   Group Study       Cathy Danny Emily
+2023-05-25   21:00   23:00   Group Study       Amada Danny Emily
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-27   22:00   23:00   Project Meeting   Billy Cathy Danny Emily
+2023-05-29   18:00   20:00   Private Time     
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Group Study       Cathy Danny Emily
+2023-05-31   20:00   21:00   Group Study       Amada Cathy Danny Emily
+Danny, you have 53 appointments
+========================================================
+Date         Start    End      Type           People
+========================================================
+2023-05-05   20:00   21:00   Project Meeting   => 20230501 1800 Amada Danny Emily
+2023-05-18   21:00   22:00   Gathering         => 20230501 1900 Amada Billy Cathy Emily
+2023-05-10   21:00   23:00   Project Meeting   => 20230501 2000 Billy Cathy Emily
+2023-05-23   20:00   21:00   Private Time      => 20230501 2200
+2023-05-16   22:00   23:00   Group Study       => 20230512 1800 Emily
+2023-05-03   21:00   23:00   Gathering         => 20230512 1800 Emily
+2023-05-05   19:00   22:00   Project Meeting   => 20230512 1800 Amada
+2023-05-22   18:00   23:00   Group Study       => 20230502 1800 Amada Danny Emily
+2023-05-17   18:00   19:00   Gathering         => 20230512 2200 Amada Billy Cathy Danny
+2023-05-23   22:00   23:00   Group Study       => 20230513 1800 Danny Emily
+2023-05-15   19:00   23:00   Gathering         => 20230513 1800 Danny
+2023-05-05   21:00   23:00   Group Study       => 20230513 2000 Cathy Danny
+2023-05-03   18:00   23:00   Gathering         Danny Emily
+2023-05-06   20:00   22:00   Project Meeting   => 20230514 1800 Amada Cathy Danny Emily
+2023-05-12   20:00   23:00   Group Study       => 20230514 1800 Cathy Emily
+2023-05-13   18:00   22:00   Group Study       => 20230514 1800 Emily
+2023-05-11   18:00   23:00   Group Study       => 20230514 1800 Danny Emily
+2023-05-05   18:00   22:00   Group Study       Danny Emily
+2023-05-09   22:00   23:00   Group Study       => 20230505 2200 Cathy Danny Emily
+2023-05-23   19:00   23:00   Project Meeting   => 20230506 1800 Amada Billy
+2023-05-09   22:00   23:00   Group Study       => 20230506 2200 Danny Emily
+2023-05-08   18:00   22:00   Gathering         => 20230507 1800 Cathy Danny Emily
+2023-05-29   19:00   20:00   Private Time      => 20230507 2200
+2023-05-09   20:00   22:00   Project Meeting   => 20230508 1800 Emily
+2023-05-04   19:00   21:00   Group Study       => 20230508 2000 Emily
+2023-05-02   20:00   21:00   Private Time      => 20230508 2200
+2023-05-12   21:00   23:00   Group Study       => 20230509 1800 Cathy Danny
+2023-05-09   20:00   22:00   Project Meeting   Emily
+2023-05-23   21:00   22:00   Project Meeting   => 20230509 2200 Cathy Danny Emily
+2023-05-31   20:00   23:00   Group Study       => 20230510 1800 Cathy Danny Emily
+2023-05-18   22:00   23:00   Private Time      => 20230510 2100
+2023-05-29   22:00   23:00   Project Meeting   => 20230510 2200 Cathy Danny
+2023-05-11   18:00   23:00   Gathering         Amada Billy Cathy Emily
+2023-05-12   20:00   22:00   Private Time     
+2023-05-12   22:00   23:00   Group Study       Danny Emily
+2023-05-13   19:00   20:00   Project Meeting   Emily
+2023-05-13   22:00   23:00   Project Meeting   Cathy Danny
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   19:00   21:00   Group Study       Emily
+2023-05-15   22:00   23:00   Project Meeting   Cathy Danny
+2023-05-16   20:00   23:00   Group Study       Amada Billy
+2023-05-17   19:00   20:00   Project Meeting   Cathy Danny Emily
+2023-05-17   20:00   21:00   Project Meeting   Cathy Danny
+2023-05-17   22:00   23:00   Project Meeting   Emily
+2023-05-18   18:00   20:00   Private Time     
+2023-05-18   21:00   22:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-19   20:00   21:00   Gathering         Amada Billy Danny Emily
+2023-05-19   21:00   22:00   Project Meeting   Amada Billy Danny Emily
+2023-05-20   18:00   23:00   Gathering         Amada Cathy Danny Emily
+2023-05-22   19:00   23:00   Group Study       Emily
+2023-05-23   20:00   22:00   Group Study       Amada Billy Danny Emily
+2023-05-23   22:00   23:00   Project Meeting   Emily
+2023-05-24   20:00   23:00   Group Study       Amada Billy
+2023-05-25   19:00   21:00   Group Study       Cathy Danny Emily
+2023-05-25   21:00   23:00   Group Study       Amada Danny Emily
+2023-05-27   19:00   22:00   Gathering         Billy Emily
+2023-05-27   22:00   23:00   Project Meeting   Billy Cathy Danny Emily
+2023-05-29   18:00   23:00   Project Meeting   Billy Cathy Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Group Study       Cathy Danny Emily
+2023-05-31   20:00   21:00   Group Study       Amada Cathy Danny Emily
+Emily, you have 62 appointments
+========================================================
+Period: 2023-05-01 to 2023-05-31
+Algorithm used: PRIORITY
+
+***Appointment Schedule***
+
+Date         Start    End      Type           People
+========================================================
+2023-05-23   22:00   23:00   Group Study       => 20230511 1800 Danny Emily
+2023-05-16   18:00   21:00   Gathering         => 20230511 1800 Amada Billy Cathy Danny
+2023-05-03   21:00   23:00   Gathering         => 20230512 1800 Emily
+2023-05-09   20:00   21:00   Gathering         => 20230502 2100 Emily
+2023-05-02   22:00   23:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-03   22:00   23:00   Private Time      => 20230507 1900
+2023-05-18   19:00   23:00   Gathering         => 20230514 1800 Amada Billy Danny
+2023-05-11   18:00   23:00   Group Study       => 20230514 1800 Danny Emily
+2023-05-05   19:00   22:00   Project Meeting   => 20230512 1800 Amada
+2023-05-02   20:00   21:00   Project Meeting   => 20230506 1800 Emily
+2023-05-06   19:00   22:00   Private Time      => 20230510 1800
+2023-05-17   22:00   23:00   Group Study       => 20230506 2200 Emily
+2023-05-15   21:00   22:00   Group Study       => 20230507 2200 Billy Cathy Danny Emily
+2023-05-12   20:00   21:00   Gathering         => 20230508 1800 Amada Billy Cathy Emily
+2023-05-08   19:00   21:00   Project Meeting   => 20230512 1800 Emily
+2023-05-09   20:00   21:00   Private Time      => 20230507 2000
+2023-05-27   20:00   21:00   Gathering         => 20230510 2200 Billy Cathy Danny
+2023-05-11   19:00   20:00   Group Study       => 20230512 2200 Amada Cathy Emily
+2023-05-11   21:00   22:00   Private Time      => 20230501 2100
+2023-05-12   22:00   23:00   Group Study       Danny Emily
+2023-05-13   20:00   22:00   Private Time      => 20230508 1800
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   20:00   23:00   Private Time     
+2023-05-17   19:00   20:00   Project Meeting   Cathy Danny Emily
+2023-05-17   22:00   23:00   Project Meeting   Emily
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-20   22:00   23:00   Private Time      => 20230501 2000
+2023-05-22   18:00   21:00   Private Time     
+2023-05-23   18:00   22:00   Private Time      => 20230512 1800
+2023-05-23   22:00   23:00   Project Meeting   Emily
+2023-05-25   19:00   20:00   Private Time      => 20230505 2100
+2023-05-25   20:00   21:00   Group Study       => 20230513 1800 Amada Billy Danny Emily
+2023-05-27   19:00   20:00   Private Time     
+2023-05-27   21:00   22:00   Private Time      => 20230507 1800
+2023-05-29   18:00   21:00   Private Time      => 20230505 1800
+2023-05-30   18:00   19:00   Project Meeting   => 20230513 1800 Amada Billy Danny Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Private Time      => 20230507 2100
+2023-05-31   18:00   20:00   Private Time     
+Amada,you have 39 appointments
+               - End of amada's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-03   19:00   20:00   Gathering         => 20230511 1800 Amada Billy Cathy Danny
+2023-05-16   18:00   21:00   Gathering         => 20230511 1800 Amada Billy Cathy Danny
+2023-05-09   20:00   22:00   Project Meeting   => 20230511 2100 Emily
+2023-05-02   19:00   22:00   Private Time     
+2023-05-05   22:00   23:00   Project Meeting   => 20230503 1800 Amada Billy Cathy Emily
+2023-05-04   21:00   22:00   Gathering         => 20230503 1900 Danny Emily
+2023-05-02   19:00   20:00   Group Study       => 20230503 2100 Billy
+2023-05-03   22:00   23:00   Private Time      => 20230505 2100
+2023-05-18   19:00   23:00   Gathering         => 20230514 1800 Amada Billy Danny
+2023-05-19   18:00   23:00   Group Study       => 20230514 1800 Billy Cathy Danny Emily
+2023-05-09   22:00   23:00   Project Meeting   => 20230505 2200 Cathy Danny Emily
+2023-05-23   22:00   23:00   Gathering         => 20230506 2100 Danny Emily
+2023-05-15   21:00   22:00   Group Study       => 20230507 2200 Billy Cathy Danny Emily
+2023-05-12   20:00   21:00   Gathering         => 20230508 1800 Amada Billy Cathy Emily
+2023-05-08   21:00   23:00   Private Time      => 20230505 1800
+2023-05-09   18:00   20:00   Private Time      => 20230503 2000
+2023-05-09   21:00   22:00   Private Time     
+2023-05-10   18:00   19:00   Private Time      => 20230502 2200
+2023-05-10   19:00   20:00   Project Meeting   => 20230513 1800 Cathy Danny Emily
+2023-05-27   20:00   21:00   Gathering         => 20230510 2200 Billy Cathy Danny
+2023-05-11   20:00   21:00   Group Study       => 20230512 2200 Billy Cathy Emily
+2023-05-13   18:00   19:00   Private Time      => 20230502 1800
+2023-05-13   19:00   22:00   Private Time     
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   22:00   23:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-16   21:00   22:00   Project Meeting   => 20230512 2200 Billy Cathy Emily
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-19   22:00   23:00   Private Time      => 20230505 2000
+2023-05-20   19:00   21:00   Project Meeting   => 20230514 1800 Cathy Danny Emily
+2023-05-22   19:00   20:00   Project Meeting   => 20230512 2200 Billy Danny
+2023-05-22   21:00   23:00   Project Meeting   => 20230514 1800 Billy Danny Emily
+2023-05-25   20:00   21:00   Group Study       => 20230513 1800 Amada Billy Danny Emily
+2023-05-25   22:00   23:00   Private Time     
+2023-05-27   20:00   21:00   Project Meeting   => 20230512 2200 Billy Danny
+2023-05-29   21:00   22:00   Private Time      => 20230503 1800
+2023-05-30   18:00   19:00   Project Meeting   => 20230513 1800 Amada Billy Danny Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Project Meeting   => 20230513 1800 Billy Emily
+2023-05-31   19:00   20:00   Private Time      => 20230505 2200
+Billy,you have 39 appointments
+               - End of billy's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-19   22:00   23:00   Gathering         => 20230511 1800 Danny Emily
+2023-05-16   18:00   21:00   Gathering         => 20230511 1800 Amada Billy Cathy Danny
+2023-05-05   21:00   23:00   Group Study       => 20230511 2100 Cathy Danny
+2023-05-25   18:00   20:00   Gathering         => 20230502 1800 Emily
+2023-05-02   21:00   23:00   Private Time      => 20230513 2000
+2023-05-04   20:00   21:00   Gathering         => 20230503 1800 Danny Emily
+2023-05-03   19:00   23:00   Private Time      => 20230514 1800
+2023-05-18   19:00   23:00   Gathering         => 20230514 1800 Amada Billy Danny
+2023-05-19   18:00   23:00   Group Study       => 20230514 1800 Billy Cathy Danny Emily
+2023-05-05   18:00   20:00   Private Time      => 20230503 2000
+2023-05-09   22:00   23:00   Project Meeting   => 20230505 2200 Cathy Danny Emily
+2023-05-06   18:00   22:00   Private Time     
+2023-05-06   22:00   23:00   Private Time      => 20230503 2200
+2023-05-12   20:00   22:00   Group Study       => 20230507 1800 Cathy Danny
+2023-05-19   21:00   23:00   Gathering         => 20230507 2000 Cathy Danny
+2023-05-15   21:00   22:00   Group Study       => 20230507 2200 Billy Cathy Danny Emily
+2023-05-12   20:00   21:00   Gathering         => 20230508 1800 Amada Billy Cathy Emily
+2023-05-06   22:00   23:00   Group Study       => 20230508 2100 Danny Emily
+2023-05-03   19:00   21:00   Gathering         => 20230509 1800 Emily
+2023-05-10   22:00   23:00   Group Study       => 20230509 2000 Cathy
+2023-05-09   22:00   23:00   Project Meeting   => 20230513 1800 Cathy Danny
+2023-05-02   19:00   20:00   Group Study       => 20230510 1800 Cathy Emily
+2023-05-10   19:00   20:00   Project Meeting   => 20230513 1800 Cathy Danny Emily
+2023-05-18   20:00   21:00   Group Study       => 20230510 2100 Danny Emily
+2023-05-27   20:00   21:00   Gathering         => 20230510 2200 Billy Cathy Danny
+2023-05-11   19:00   20:00   Group Study       => 20230512 2200 Amada Cathy Emily
+2023-05-11   20:00   21:00   Group Study       => 20230512 2200 Billy Cathy Emily
+2023-05-12   18:00   21:00   Private Time      => 20230514 1800
+2023-05-12   21:00   22:00   Private Time      => 20230508 1800
+2023-05-13   19:00   20:00   Project Meeting   => 20230513 1800 Cathy Danny
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   19:00   20:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-15   22:00   23:00   Private Time      => 20230506 2200
+2023-05-16   21:00   22:00   Project Meeting   => 20230512 2200 Billy Cathy Emily
+2023-05-16   22:00   23:00   Group Study       => 20230513 1800 Cathy Danny
+2023-05-17   19:00   20:00   Project Meeting   Cathy Danny Emily
+2023-05-17   20:00   21:00   Project Meeting   Cathy Danny
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-19   19:00   22:00   Private Time      => 20230514 1800
+2023-05-20   19:00   21:00   Project Meeting   => 20230514 1800 Cathy Danny Emily
+2023-05-20   21:00   22:00   Group Study       => 20230513 1800 Emily
+2023-05-22   21:00   23:00   Project Meeting   => 20230514 1800 Billy Danny Emily
+2023-05-24   21:00   22:00   Private Time     
+2023-05-25   18:00   19:00   Private Time      => 20230501 1800
+2023-05-25   20:00   21:00   Group Study       => 20230513 1800 Amada Billy Danny Emily
+2023-05-25   22:00   23:00   Project Meeting   => 20230512 2200 Cathy
+2023-05-27   18:00   20:00   Private Time      => 20230513 2000
+2023-05-29   22:00   23:00   Project Meeting   => 20230510 2200 Cathy Danny
+2023-05-30   18:00   19:00   Project Meeting   => 20230513 1800 Amada Billy Danny Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Private Time      => 20230508 1900
+2023-05-31   18:00   23:00   Private Time      => 20230514 1800
+Cathy,you have 52 appointments
+               - End of cathy's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-23   22:00   23:00   Group Study       => 20230511 1800 Danny Emily
+2023-05-16   18:00   21:00   Gathering         => 20230511 1800 Amada Billy Cathy Danny
+2023-05-05   21:00   23:00   Group Study       => 20230511 2100 Cathy Danny
+2023-05-02   18:00   20:00   Private Time      => 20230513 1800
+2023-05-02   22:00   23:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-04   20:00   21:00   Gathering         => 20230503 1800 Danny Emily
+2023-05-04   21:00   22:00   Gathering         => 20230503 1900 Danny Emily
+2023-05-16   21:00   22:00   Gathering         => 20230503 2000 Danny
+2023-05-05   21:00   23:00   Gathering         => 20230503 2100 Emily
+2023-05-18   19:00   23:00   Gathering         => 20230514 1800 Amada Billy Danny
+2023-05-11   18:00   23:00   Group Study       => 20230514 1800 Danny Emily
+2023-05-13   21:00   22:00   Group Study       => 20230505 1800 Danny
+2023-05-05   19:00   21:00   Private Time      => 20230506 1800
+2023-05-09   22:00   23:00   Project Meeting   => 20230505 2200 Cathy Danny Emily
+2023-05-06   18:00   21:00   Private Time      => 20230513 1800
+2023-05-23   22:00   23:00   Gathering         => 20230506 2100 Danny Emily
+2023-05-06   22:00   23:00   Private Time      => 20230513 1800
+2023-05-12   20:00   22:00   Group Study       => 20230507 1800 Cathy Danny
+2023-05-19   21:00   23:00   Gathering         => 20230507 2000 Cathy Danny
+2023-05-15   21:00   22:00   Group Study       => 20230507 2200 Billy Cathy Danny Emily
+2023-05-12   20:00   21:00   Gathering         => 20230508 1800 Amada Billy Cathy Emily
+2023-05-08   20:00   21:00   Private Time      => 20230509 2000
+2023-05-06   22:00   23:00   Group Study       => 20230508 2100 Danny Emily
+2023-05-22   18:00   19:00   Group Study       => 20230508 2200 Emily
+2023-05-09   19:00   22:00   Private Time      => 20230513 1800
+2023-05-09   22:00   23:00   Project Meeting   => 20230513 1800 Cathy Danny
+2023-05-02   19:00   20:00   Group Study       => 20230510 1800 Cathy Emily
+2023-05-10   19:00   20:00   Project Meeting   => 20230513 1800 Cathy Danny Emily
+2023-05-22   22:00   23:00   Group Study       => 20230510 2000 Emily
+2023-05-18   20:00   21:00   Group Study       => 20230510 2100 Danny Emily
+2023-05-27   20:00   21:00   Gathering         => 20230510 2200 Billy Cathy Danny
+2023-05-11   19:00   20:00   Group Study       => 20230512 2200 Amada Cathy Emily
+2023-05-11   20:00   21:00   Group Study       => 20230512 2200 Billy Cathy Emily
+2023-05-12   19:00   21:00   Private Time      => 20230506 2000
+2023-05-12   21:00   22:00   Private Time      => 20230513 1800
+2023-05-12   22:00   23:00   Group Study       Danny Emily
+2023-05-13   19:00   20:00   Project Meeting   => 20230513 1800 Cathy Danny
+2023-05-13   22:00   23:00   Project Meeting   => 20230513 1800 Emily
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   19:00   20:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-15   21:00   22:00   Private Time      => 20230509 2100
+2023-05-15   22:00   23:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-16   21:00   22:00   Project Meeting   => 20230512 2200 Billy Cathy Emily
+2023-05-16   22:00   23:00   Group Study       => 20230513 1800 Cathy Danny
+2023-05-17   19:00   20:00   Project Meeting   Cathy Danny Emily
+2023-05-17   20:00   21:00   Project Meeting   Cathy Danny
+2023-05-18   18:00   20:00   Private Time     
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-19   19:00   23:00   Private Time      => 20230513 1800
+2023-05-20   19:00   21:00   Project Meeting   => 20230514 1800 Cathy Danny Emily
+2023-05-22   19:00   20:00   Project Meeting   => 20230512 2200 Billy Danny
+2023-05-22   20:00   21:00   Private Time     
+2023-05-22   21:00   23:00   Project Meeting   => 20230514 1800 Billy Danny Emily
+2023-05-23   18:00   22:00   Private Time      => 20230513 1800
+2023-05-24   19:00   20:00   Project Meeting   => 20230513 1800 Emily
+2023-05-24   21:00   23:00   Private Time     
+2023-05-25   20:00   21:00   Group Study       => 20230513 1800 Amada Billy Danny Emily
+2023-05-27   20:00   21:00   Project Meeting   => 20230512 2200 Billy Danny
+2023-05-27   21:00   23:00   Private Time      => 20230508 1800
+2023-05-29   18:00   20:00   Private Time     
+2023-05-29   22:00   23:00   Project Meeting   => 20230510 2200 Cathy Danny
+2023-05-30   18:00   19:00   Project Meeting   => 20230513 1800 Amada Billy Danny Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Project Meeting   => 20230513 1800 Billy Emily
+Danny,you have 64 appointments
+               - End of danny's Schedule -
+========================================================
+
+
+Date         Start    End      Type           People
+========================================================
+2023-05-23   22:00   23:00   Group Study       => 20230511 1800 Danny Emily
+2023-05-16   18:00   21:00   Gathering         => 20230511 1800 Amada Billy Cathy Danny
+2023-05-05   21:00   23:00   Group Study       => 20230511 2100 Cathy Danny
+2023-05-03   21:00   23:00   Gathering         => 20230512 1800 Emily
+2023-05-02   20:00   21:00   Private Time      => 20230508 2200
+2023-05-09   20:00   21:00   Gathering         => 20230502 2100 Emily
+2023-05-02   22:00   23:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-04   20:00   21:00   Gathering         => 20230503 1800 Danny Emily
+2023-05-04   21:00   22:00   Gathering         => 20230503 1900 Danny Emily
+2023-05-16   21:00   22:00   Gathering         => 20230503 2000 Danny
+2023-05-02   19:00   20:00   Group Study       => 20230503 2100 Billy
+2023-05-05   21:00   23:00   Gathering         => 20230503 2100 Emily
+2023-05-06   20:00   22:00   Project Meeting   => 20230514 1800 Amada Cathy Danny Emily
+2023-05-12   20:00   23:00   Group Study       => 20230514 1800 Cathy Emily
+2023-05-13   18:00   22:00   Group Study       => 20230514 1800 Emily
+2023-05-11   18:00   23:00   Group Study       => 20230514 1800 Danny Emily
+2023-05-13   21:00   22:00   Group Study       => 20230505 1800 Danny
+2023-05-05   19:00   22:00   Project Meeting   => 20230512 1800 Amada
+2023-05-09   22:00   23:00   Project Meeting   => 20230505 2200 Cathy Danny Emily
+2023-05-02   20:00   21:00   Project Meeting   => 20230506 1800 Emily
+2023-05-06   19:00   21:00   Private Time      => 20230512 1800
+2023-05-23   22:00   23:00   Gathering         => 20230506 2100 Danny Emily
+2023-05-17   22:00   23:00   Group Study       => 20230506 2200 Emily
+2023-05-12   20:00   22:00   Group Study       => 20230507 1800 Cathy Danny
+2023-05-19   21:00   23:00   Gathering         => 20230507 2000 Cathy Danny
+2023-05-15   21:00   22:00   Group Study       => 20230507 2200 Billy Cathy Danny Emily
+2023-05-12   20:00   21:00   Gathering         => 20230508 1800 Amada Billy Cathy Emily
+2023-05-08   19:00   21:00   Project Meeting   => 20230512 1800 Emily
+2023-05-06   22:00   23:00   Group Study       => 20230508 2100 Danny Emily
+2023-05-22   18:00   19:00   Group Study       => 20230508 2200 Emily
+2023-05-03   19:00   21:00   Gathering         => 20230509 1800 Emily
+2023-05-10   22:00   23:00   Group Study       => 20230509 2000 Cathy
+2023-05-09   22:00   23:00   Project Meeting   => 20230513 1800 Cathy Danny
+2023-05-02   19:00   20:00   Group Study       => 20230510 1800 Cathy Emily
+2023-05-10   19:00   20:00   Project Meeting   => 20230513 1800 Cathy Danny Emily
+2023-05-22   22:00   23:00   Group Study       => 20230510 2000 Emily
+2023-05-18   20:00   21:00   Group Study       => 20230510 2100 Danny Emily
+2023-05-10   22:00   23:00   Private Time      => 20230512 1800
+2023-05-11   19:00   20:00   Group Study       => 20230512 2200 Amada Cathy Emily
+2023-05-11   20:00   21:00   Group Study       => 20230512 2200 Billy Cathy Emily
+2023-05-12   20:00   22:00   Private Time     
+2023-05-12   22:00   23:00   Group Study       Danny Emily
+2023-05-13   19:00   20:00   Project Meeting   => 20230513 1800 Cathy Danny
+2023-05-13   22:00   23:00   Project Meeting   => 20230513 1800 Emily
+2023-05-15   18:00   19:00   Project Meeting   Amada Billy Cathy Emily
+2023-05-15   19:00   20:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-15   22:00   23:00   Project Meeting   => 20230513 1800 Danny Emily
+2023-05-16   21:00   22:00   Project Meeting   => 20230512 2200 Billy Cathy Emily
+2023-05-16   22:00   23:00   Group Study       => 20230513 1800 Cathy Danny
+2023-05-17   19:00   20:00   Project Meeting   Cathy Danny Emily
+2023-05-17   20:00   21:00   Project Meeting   Cathy Danny
+2023-05-17   22:00   23:00   Project Meeting   Emily
+2023-05-18   18:00   20:00   Private Time     
+2023-05-18   20:00   23:00   Private Time      => 20230514 1800
+2023-05-19   18:00   19:00   Gathering         Amada Billy Cathy Emily
+2023-05-20   19:00   21:00   Project Meeting   => 20230514 1800 Cathy Danny Emily
+2023-05-20   21:00   22:00   Group Study       => 20230513 1800 Emily
+2023-05-22   19:00   20:00   Project Meeting   => 20230512 2200 Billy Danny
+2023-05-22   21:00   23:00   Project Meeting   => 20230514 1800 Billy Danny Emily
+2023-05-23   20:00   21:00   Private Time      => 20230501 2200
+2023-05-23   22:00   23:00   Project Meeting   Emily
+2023-05-24   19:00   20:00   Project Meeting   => 20230513 1800 Emily
+2023-05-25   20:00   21:00   Group Study       => 20230513 1800 Amada Billy Danny Emily
+2023-05-25   22:00   23:00   Project Meeting   => 20230512 2200 Cathy
+2023-05-27   20:00   21:00   Project Meeting   => 20230512 2200 Billy Danny
+2023-05-29   18:00   21:00   Private Time      => 20230514 1800
+2023-05-29   22:00   23:00   Project Meeting   => 20230510 2200 Cathy Danny
+2023-05-30   18:00   19:00   Project Meeting   => 20230513 1800 Amada Billy Danny Emily
+2023-05-30   19:00   22:00   Group Study       Amada Billy Cathy Danny
+2023-05-30   22:00   23:00   Project Meeting   => 20230513 1800 Billy Emily
+Emily,you have 70 appointments
+               - End of emily's Schedule -
+========================================================
+
+
