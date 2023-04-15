@@ -67,17 +67,17 @@ COMP & AMA Courses:
   - Group Project
   - Assignment 1
   - Assignment 2
-  
 - COMP 2322 (Computer Network)
   - Lab Report
+  - Project
   - Homework 1
   - Homework 2
   - Homework 3
   - Homework 4
   - Homework 5
-  
 - COMP 2421 (Computer Organaztion - Use C Language & Mips Assembly Language)
   - Homework 1
+  - Mid-term
   - Programming Assignment 1
   - Programming Assignment 2
 
