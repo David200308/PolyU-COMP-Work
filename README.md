@@ -80,6 +80,13 @@ COMP & AMA Courses:
   - Mid-term
   - Programming Assignment 1
   - Programming Assignment 2
+- COMP 3211 (Software Engineering)
+  - Assignment 1
+  - Project
+  
+- COMP 3423 (HCI)
+  - Assignment 1
+
 
 
 
