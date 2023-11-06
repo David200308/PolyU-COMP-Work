@@ -1,8 +1,9 @@
 # **PolyU COMP Work**
 
-## Subjects:
+## Subjects
 
-COMP & AMA Courses:
+### COMP & AMA Courses
+
 - COMP 1002 (Use Python 3)
   - Assignment 1
   - Assignment 2
@@ -86,24 +87,29 @@ COMP & AMA Courses:
   
 - COMP 3423 (HCI)
   - Assignment 1
+  - Assignment 2
+- COMP 3335 (Database Security)
+  - Assignment 1
+  - Quiz 1
+  
 
+### CAR Courses
 
-
-
-CAR Courses:
 - CAR A - APSS 1A08
 - CAR C - CBS 1C12P (CRCW & CSR)
 
-LCR Courses:
+### LCR Courses
 
 - ELC 1011
 - ELC 1013
 - CLC 1104P
 
-Leadership Course:
+### Leadership Course
+
 - APSS 1L01
 
-Service Learning:
+### Service Learning
+
 - Waiting...
 
 
