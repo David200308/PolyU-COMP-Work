@@ -83,11 +83,12 @@
   - Programming Assignment 2
 - COMP 3211 (Software Engineering)
   - Assignment 1
+  - Assignment 2
   - Project
-  
 - COMP 3423 (HCI)
   - Assignment 1
   - Assignment 2
+  - Assignment 3 (Group Project)
 - COMP 3335 (Database Security)
   - Assignment 1
   - Quiz 1
