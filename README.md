@@ -81,6 +81,8 @@
   - Mid-term
   - Programming Assignment 1
   - Programming Assignment 2
+- COMP 3438 (System Programming)
+  - Project
 - COMP 3211 (Software Engineering)
   - Assignment 1
   - Assignment 2
@@ -92,7 +94,6 @@
 - COMP 3335 (Database Security)
   - Assignment 1
   - Quiz 1
-  
 
 ### CAR Courses
 
@@ -112,11 +113,6 @@
 ### Service Learning
 
 - Waiting...
-
-
-
-
-
 
 ##### Copyright belong to Guanlin Jiang;
 
