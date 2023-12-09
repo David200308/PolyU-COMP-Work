@@ -94,6 +94,7 @@
 - COMP 3335 (Database Security)
   - Assignment 1
   - Quiz 1
+  - Quiz 2
 
 ### CAR Courses
 
