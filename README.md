@@ -95,6 +95,15 @@
   - Assignment 1
   - Quiz 1
   - Quiz 2
+- COMP 3334 (Computer System Security)
+  - Assignment
+  - Lab Test
+  - Project
+  
+- COMP 3511 (Legal Aspects and Ethics of Computing)
+  - Assignment 1
+  - Assignment 2
+
 
 ### CAR Courses
 
