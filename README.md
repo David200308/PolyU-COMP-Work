@@ -103,18 +103,25 @@
 - COMP 3511 (Legal Aspects and Ethics of Computing)
   - Assignment 1
   - Assignment 2
+- COMP 4334 (Principles and Practice of Internet Security)
+  - Assignment 1
+  - Assignment 2
+  - Group Project
+
 
 
 ### CAR Courses
 
 - CAR A - APSS 1A08
 - CAR C - CBS 1C12P (CRCW & CSR)
+- CAR D - SO 2D01
 
 ### LCR Courses
 
 - ELC 1011
 - ELC 1013
 - CLC 1104P
+- ELC 3524 (Professional Communication for Computing Students)
 
 ### Leadership Course
 
